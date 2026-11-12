@@ -1,0 +1,11 @@
+/target/
+*.class
+.idea/
+.vscode/
+.env
+.env.*
+!.env.example
+*.log
+*.xml.local
+pgdata/
+login.xml

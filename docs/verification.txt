@@ -1,0 +1,5 @@
+PASS: READ displayed initial students.
+PASS: CREATE independently verified in PostgreSQL (ID 15).
+PASS: UPDATE independently verified in PostgreSQL.
+PASS: DELETE independently verified; row count restored to 3.
+ALL FOUR CRUD OPERATIONS PASSED.
