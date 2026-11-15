@@ -97,13 +97,9 @@ The generated ID may be different from 4 if you've inserted students previously.
 
 ## Video and submission checklist
 
-- [ ] Record a **maximum 5-minute** video showing database setup, each of the four Java functions, and changes in pgAdmin for INSERT, UPDATE, and DELETE.
-- [ ] Upload the recording to YouTube/Vimeo/cloud storage with link-sharing enabled.
-- [ ] Add a working demonstration video link below.
-- [x] Create a **public GitHub repository** and push `StudentApp.java`, `setup.sql`, `pom.xml`, and `README.md`.
-- [ ] Submit your **GitHub repository URL** in Brightspace.
 
-**Demonstration video:** Pending recording and upload. The required video has not yet been produced.
+
+ Pending recording and upload. The required video has not yet been produced.
 
 ## Verified local execution
 
