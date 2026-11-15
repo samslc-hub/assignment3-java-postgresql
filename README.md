@@ -70,8 +70,6 @@ export DB_PASSWORD='YOUR_POSTGRES_PASSWORD'
 export DB_URL='jdbc:postgresql://localhost:5432/students_db'
 ```
 
-Do not commit passwords or `.env` files to a public repository.
-
 ## Step 3: Compile and run
 
 Open a terminal in the repository root (the folder containing `pom.xml`):
@@ -95,11 +93,9 @@ Use the menu to call all four functions. `getAllStudents()` displays student IDs
 
 The generated ID may be different from 4 if you've inserted students previously. Use the ID actually printed by the application.
 
-## Video and submission checklist
+## Video
 
-
-
- Pending recording and upload. The required video has not yet been produced.
+https://youtu.be/Vi3veYc86NQ
 
 ## Verified local execution
 
